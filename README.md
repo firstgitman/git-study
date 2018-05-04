@@ -1,5 +1,5 @@
 ##Git study
 
-# In this repository I will be commit some files.
+# In this repository I will add different files. 
 
-## I want to be know GIT
+## I want to know git.
