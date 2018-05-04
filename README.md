@@ -4,10 +4,6 @@
 
 ## I want to know git.
 
-''
-,,
-
-
 ```
 getRandomElement([1, 2, 3]);
 // => 2
